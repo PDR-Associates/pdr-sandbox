@@ -18,3 +18,5 @@ gradle-app.setting
 *.iws
 .idea
 venv
+.DS_Store
+charts/.DS_Store
